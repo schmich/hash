@@ -36,6 +36,8 @@ Hash stuff.
 
 ## Examples
 
+`hash` operates on files or stdin. The SHAKE hash family is parameterized to produce arbitrary-length output, though going beyond a certain length does not provide any additional cryptographic security.
+
     > hash md5 empty.txt
     d41d8cd98f00b204e9800998ecf8427e
 
