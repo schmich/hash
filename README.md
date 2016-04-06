@@ -4,7 +4,7 @@ Hash stuff.
 
 ## Installation
 
-    go get github.com/schmich/hash && go install github.com/schmich/hash/...
+    go get -u github.com/schmich/hash/... && go install github.com/schmich/hash/...
 
 ## Usage
 
