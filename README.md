@@ -53,7 +53,7 @@ Hash stuff.
     > hash shake-128 -n 40 empty.txt
     7f9c2ba4e88f827d616045507605853ed73b8093f6efbc88eb1a6eacfa66ef263cb1eea988004b93
 
-# License
+## License
 
 Copyright &copy; 2016 Chris Schmich<br>
 MIT License. See [LICENSE](LICENSE) for details.
